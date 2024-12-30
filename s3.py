@@ -70,7 +70,7 @@ def verify_whatsapp_numbers(input_file, output_file):
                 print(f"Skipping to next number...")
 
 # Example usage
-input_file = 'phone_numbers_216'
+input_file = 'phone_numbers_216.txt'
 output_file = 'valide_phone_numbers_216.txt'
 verify_whatsapp_numbers(input_file, output_file)
 
